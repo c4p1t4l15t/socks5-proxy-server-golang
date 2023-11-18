@@ -1,4 +1,4 @@
-# socks5-proxy-golang
-Socks5 proxy server.
+# socks5-proxy-server-golang
 Simple socks5 proxy server written in golang.
-This proxy server is part of another project called "socks5 backconnect proxy" which is not yet implemented and is still under development.
+So far only the connect method has been implemented.
+This proxy server is part of another project called "socks5 backconnect proxy" which is under development.
