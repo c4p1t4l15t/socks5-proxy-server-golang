@@ -5,4 +5,4 @@ This proxy server is part of another project called "socks5 backconnect proxy" w
 Simple and compact code without the use of external modules. Enjoy.
 Hit me if you have any questions or business proposals.
 
-[Telegram: @](https://t.me/c4p1t4l15t)https://t.me/c4p1t4l15t
+https://t.me/c4p1t4l15t
